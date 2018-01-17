@@ -4,7 +4,7 @@ cd `dirname $BASH_SOURCE`
 
 if [ -d ~/Library/Developer/Xcode/Templates/File\ Templates/Willhaben ]
 then
-	# remove templates there were there
+	# remove templates that were there
 	rm -rf ~/Library/Developer/Xcode/Templates/File\ Templates/Willhaben/
 fi
 
